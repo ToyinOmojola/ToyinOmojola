@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrToyinOmojola
-- 👀 I’m interested in Kinetics, Reaction Engineering and Surface Science
+- 👀 I’m interested in Kinetics, Reaction Engineering, Surface Science and Multi-scale Modeling
 - 🌱 I’m currently learning how to better use MATLAB and Quantum Espresso. I am currently looking to learn how to start using VASP. 
 - 📫 How to reach me - omojola@fhi-berlin.mpg.de
 
