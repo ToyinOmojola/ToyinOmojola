@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrToyinOmojola
 - 👀 I’m interested in Kinetics, Reaction Engineering, Surface Science and Multiscale Modeling
 - 🌱 I’m currently learning how to better use MATLAB and Quantum Espresso. I am currently looking to learn how to start using Python and VASP. 
-- 📫 How to reach me - omojola@fhi-berlin.mpg.de
+
 
 <!---
 ToyinOmojola/ToyinOmojola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
