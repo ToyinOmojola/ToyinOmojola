@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrToyinOmojola
-- 👀 I’m interested in Mathematics, Physics, Chemistry, Biology, and Dynamic Multiscale Modeling
+- 👀 I’m interested in Mathematics, Physics, Chemistry, Biology, and Multiscale Microdynamic Modeling
 - 🌱 I’m currently learning how to better use MATLAB and Quantum ESPRESSO
 
 
