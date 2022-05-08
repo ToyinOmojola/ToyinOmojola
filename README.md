@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrToyinOmojola
 - 👀 I’m interested in sustainable chemistry, clean energy, quantum chemistry, water purification, and cancer treatment 
-- 🌱 I’m currently advancing my skills in MATLAB and Quantum EPRESSO
+- 🌱 I’m currently advancing my skills in MATLAB and Quantum ESPRESSO
 
 
 <!---
