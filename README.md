@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrToyinOmojola
-- 👀 I’m interested in Mathematics, Physics, Chemistry, Biology, and Multiscale Microdynamic Modeling
-- 🌱 I’m currently learning how to better use MATLAB and Quantum ESPRESSO
+- 👀 I’m interested in sustainable chemistry, clean energy, quantum chemistry, water purification, and cancer treatment 
+- 🌱 I’m currently advancing my skills in MATLAB
 
 
 <!---
