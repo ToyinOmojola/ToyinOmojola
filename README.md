@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrToyinOmojola
-- 👀 I’m interested in sustainable catalysis, clean energy, water purification and cancer treatment 
+- 👀 I’m interested in sustainable catalysis and clean energy 
 - 🌱 I’m currently advancing my skills in MATLAB and Quantum ESPRESSO
 
 
