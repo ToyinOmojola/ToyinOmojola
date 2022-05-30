@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrToyinOmojola
 - 👀 I’m interested in sustainable catalysis
-- 🌱 I’m currently developing my skills in MATLAB, Python, and Quantum ESPRESSO
+- 🌱 I use MATLAB, Python, and Quantum ESPRESSO
 
 
 <!---
