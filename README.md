@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DrToyinOmojola
 - 👀 I’m interested in clean energy and sustainable catalysis
 - 🌱 I use MATLAB, Python, StarCCM+, Aspen Custom Modeler, and Quantum ESPRESSO
+- I work at the intersection of Surface chemistry, kinetics, reaction engineering, fluid dynamics, and catalysis
 
 
 <!---
