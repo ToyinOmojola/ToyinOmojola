@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DrToyinfOmojola
-- 👀 I’m a reaction engineer interested in sustainable energy and catalysis
-- 🌱 I use MATLAB, Python, openFOAM, and Aspen Custom Modeler
+- 👋 Hi, My name is @DrToyinOmojola
+- 🌱 I’m a reaction engineer interested in sustainable energy and catalysis
+- 👀 I work on improving the efficiency of chemical reactions. This entails reducing induction periods, accelerating transition regimes, and ensuring prolonged steady-state operation. My research involves generating novel catalytic concepts, theory development, building multiscale models, and conducting kinetic studies. My current and previous work spans the conversion of methanol-to-olefins over zeolites, hydrogenation/dehydrogenation reactions over supported metals, and selective oxidation over mixed oxides. Additionally, I teach courses in chemical reaction engineering.    
 
 
 
