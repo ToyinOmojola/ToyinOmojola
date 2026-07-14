@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Dr Toyin Omojola
 - 🌱 I’m a reaction engineer interested in sustainable energy and catalysis
+- 🕸️ I'm a graduate of the University of Birmingham, University of Bath, and the University of Cambridge
 - 👀 I work on improving the efficiency of chemical reactions. This entails reducing induction periods, accelerating transition regimes, and ensuring prolonged steady-state operation
 - I also work on integrating multiscale dynamic phenomena into reaction kinetics
 - I work on bringing new insights into the static behaviour of active sites
