@@ -5,6 +5,7 @@
 - I also work on integrating multiscale dynamic phenomena into reaction kinetics
 - I work on bringing new insights into the static behaviour of active sites
 - My research involves generating novel catalytic concepts, theory development, building multiscale microkinetic models, and conducting kinetic studies
+- 🤝 I work across three fields: surface chemistry, reaction engineering, and fluid dynamics
 - ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamics, and deactivation with particle-resolution and for multiple scales
 - My current and previous work spans the conversion of methanol-to-olefins over zeolites, hydrogenation/dehydrogenation reactions over supported metals, and selective oxidation over mixed metal oxides
 - My work has been published in 19 peer-reviewed journal articles, including 7 as solo-author (H-index = 11), in leading journals
