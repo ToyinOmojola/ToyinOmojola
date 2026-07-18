@@ -1,16 +1,20 @@
 - 👋 Hi, my name is Dr Toyin Omojola
 - 🌱 I’m a reaction engineer interested in sustainable energy and catalysis
 - 🕸️ I'm a graduate of the University of Birmingham, University of Bath, and the University of Cambridge
-- 👀 I work on improving the efficiency of chemical reactions. This entails reducing induction periods, accelerating transition regimes, and ensuring prolonged steady-state operation
-- I also work on integrating multiscale dynamic phenomena into reaction kinetics
-- I work on bringing new insights into the static behaviour of active sites
-- My research involves generating novel catalytic concepts, theory development, building multiscale microkinetic models, conducting kinetic studies and fundamental studies in fluid dynamics
+- 👀 I work on improving the efficiency of chemical reactions. This entails reducing the induction period, accelerating transition regimes, and ensuring prolonged steady-state operation
+- ⚡I also work on integrating multiscale dynamic phenomena into reaction kinetics and bringing new insights into the static behaviour of active sites
+- 🧪 I had a ca. 2-year industrial work experience in energy defossilisation through hydrogen transport with a clean energy company in Germany
+  
+- My research involves generating novel catalytic concepts, theory development, building multiscale microkinetic models, conducting kinetic studies, and fundamental studies in fluid dynamics
+- Within heterogeneous catalysis and clean energy, my current and previous work spans:
+- Improving reaction efficiency during the conversion of methanol-to-olefins over zeolite catalysts
+- Kinetics of multiphase reactions during hydrogenation/dehydrogenation processes over supported metals
+- Seeking descriptors for selectivity during the partial oxidation of short-chain alkanes over mixed metal oxides
+
 - 🤝 I work across three fields: surface chemistry, reaction engineering, and fluid dynamics
-- ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamics, and deactivation with particle-resolution and for multiple scales
-- 🧪 I had a ca. 2-year industrial work experience in energy defossilisation with a clean energy company 
-- My current and previous work spans the conversion of methanol-to-olefins over zeolites, hydrogenation/dehydrogenation reactions over supported metals, and selective oxidation over mixed metal oxides
-- My work has been published in 19 peer-reviewed journal articles, including 7 as solo-author (H-index = 12), in leading journals
-- Additionally, I develop and teach courses within chemical reaction engineering  
+- ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamic modelling, and deactivation with particle-resolution and for multiple scales
+- ✍🏻 My work has been published in 19 peer-reviewed journal articles, including 7 as solo-author (H-index = 12), in leading journals
+- 🧑🏼‍🏫 Additionally, I develop and teach courses within chemical reaction engineering  
 
 
 
