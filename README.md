@@ -11,7 +11,7 @@
 - Kinetics and fluid dynamics of multiphase reactions during hydrogenation/dehydrogenation processes over supported metals
 - Seeking selectivity descriptors during the partial oxidation of short-chain alkanes over mixed metal oxides
 - 🤝 My work is interdisciplinary: surface chemistry, reaction engineering, and fluid dynamics
-- ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamic modelling, and deactivation with particle-resolution and for multiple scales
+- ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamic modelling, and deactivation with particle-resolution and for multiple scales as well as fundamental studies in fluid dynamics 
 - ✍🏻 My work has been published in 19 peer-reviewed journal articles, including 7 as solo-author (H-index = 12), in leading journals
 - 🧑🏼‍🏫 Additionally, I develop and teach courses within chemical reaction engineering  
 
