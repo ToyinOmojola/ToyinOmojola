@@ -2,8 +2,9 @@
 - 🌱 I’m a reaction engineer interested in sustainable energy and catalysis
 - 🕸️ I'm a graduate of the University of Birmingham, University of Bath, and the University of Cambridge
 - 👀 I work on improving the efficiency of chemical reactions. This entails reducing the induction period, accelerating transition regimes, and ensuring prolonged steady-state operation
-- ⚡I also work on integrating multiscale dynamic phenomena into reaction kinetics and bringing new insights into the static behaviour of active sites
+- ⚡ I also work on integrating multiscale dynamic phenomena into reaction kinetics and bringing new insights into the static behaviour of active sites
 - 🧪 As an engineer, practical experience is critical so I had a ca. 2-year industrial work experience in energy defossilisation through hydrogen transport with a clean energy company in Germany
+- 👨🏻‍🔬 I obtained my postdoc work experience at the Fritz Haber Institute of the Max Planck Society in Heterogeneous Catalysis and at Chalmers University of Technology, Sweden in fundamental studies in Computational Fluid Dynamics
 - My research involves generating novel catalytic concepts, theory development, building multiscale microkinetic models, conducting kinetic studies, and fundamental studies in fluid dynamics
 - Within heterogeneous catalysis and clean energy, my current and previous work spans:
 - Improving reaction efficiency during the conversion of methanol-to-olefins over zeolite catalysts
