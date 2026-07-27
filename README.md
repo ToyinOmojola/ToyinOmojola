@@ -12,6 +12,7 @@
 - Seeking selectivity descriptors during the partial oxidation of short-chain alkanes over mixed metal oxides
 - 🤝 My work is interdisciplinary: surface chemistry, reaction engineering, and fluid dynamics
 - ⌨️ I write my own code for transient kinetics (TPD, TPSR, step response, pulse response, SSITKA), steady-state kinetics, dynamic modelling, and deactivation with particle-resolution and for multiple scales as well as fundamental studies in fluid dynamics. This involves coding and solving coupled nonlinear partial differential equations, ordinary differential equations, or differential algebraic equations
+- 🪴 I have worked with batch reactors, semi-batch reactors, fixed bed reactors, fluidised bed reactors, temporal analysis of products reactor, and structured reactors (miniliths)
 - ✍🏻 My work has been published in 19 peer-reviewed journal articles, including 7 as solo-author (H-index = 12), in leading journals
 - 🧑🏼‍🏫 Additionally, I develop and teach courses within chemical reaction engineering  
 
