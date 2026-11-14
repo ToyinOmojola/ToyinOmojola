@@ -6,7 +6,7 @@
 
   
 - Catalysis Letters: The paper investigates the static nature of active sites and works towards bridging the pressure gap in desorption profiles (https://link.springer.com/article/10.1007/s10562-026-05573-4)
-- One preprint under review that focuses on the dynamic nature of active sites and identifies the active site density distribution as a molecular descriptor for reaction efficiency of MTO conversion (https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006145/v1)
+- One preprint that focuses on the dynamic nature of active sites and identifies the active site density distribution as a molecular descriptor for reaction efficiency of MTO conversion (https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006145/v1)
 
 - ⌨️ omojola@cantab.net
 
